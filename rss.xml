@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Saints]]></title>
+        <description><![CDATA[Saints]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 08 Feb 2016 14:12:12 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About Saints]]></title>
+            <description><![CDATA[<article><h1>About Saints</h1><p>About</p></article>]]></description>
+            <link>undefinedabout-saints/index.html</link>
+            <guid isPermaLink="false">ef9d453e-bce5-450a-bf38-5b950c5eeb10</guid>
+            <pubDate>Mon, 08 Feb 2016 14:12:05 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
